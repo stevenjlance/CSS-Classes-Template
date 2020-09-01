@@ -10,4 +10,4 @@ Style the elements in `classes.html` by writing rulesets with class selectors in
 
 Style the elements in `ids.html` by writing rulesets with ID selectors in the `ids.css` file.
 
-
+**SOURCE**: This lab has been modified from its original version produced by [Upperline Code](https://github.com/upperlinecode/css-classes-template).
